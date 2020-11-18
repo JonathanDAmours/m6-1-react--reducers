@@ -4,7 +4,7 @@ In today's workshop, we'll be building a ticket-buying widget, for buying specif
 
 ![demo flow](./__lecture/assets/demo.gif)
 
-To add a sense of realism, this workshop features **a Node.js server**. This server will tell you which seats are available, and let you process (fake) credit cards to charge tickets.
+To add a sense of realism, this workshop features **a Node.js server**. This server will tell you which seats are available, and let you process (fake) credit cardsto charge tickets.
 
 ## Starting point
 
